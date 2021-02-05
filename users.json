@@ -1,0 +1,52 @@
+{
+    "5ff9c57ebb0a9": {
+        "fullname": "",
+        "taj": "",
+        "address": "",
+        "email": "admin@nemkovid.hu",
+        "password": "admin",
+        "appdatum": "",
+        "apptime": "",
+        "id": "5ff9c57ebb0a9"
+    },
+    "5ff9c73386bee": {
+        "fullname": "Horv\u00e1th Zsolt",
+        "taj": "987654321",
+        "address": "1111, Budapest, Korom utca 11.",
+        "email": "hzs22@gmail.com",
+        "password": "hozso123",
+        "appdatum": "2021.01.03.",
+        "apptime": "09:00",
+        "id": "5ff9c73386bee"
+    },
+    "5ff9c765bcce5": {
+        "fullname": "Kiss B\u00e9la",
+        "taj": "111111111",
+        "address": "1122, Budapest, V\u00edzt\u00e1roz\u00f3 utca 2.",
+        "email": "kissb69@abc.hu",
+        "password": "KissBpass",
+        "appdatum": "2021.01.10.",
+        "apptime": "14:00",
+        "id": "5ff9c765bcce5"
+    },
+    "5ff9c7965a23c": {
+        "fullname": "Kiss Pista",
+        "taj": "121212121",
+        "address": "8000, Sz\u00e9kesfeh\u00e9rv\u00e1r, Ady utca 4.",
+        "email": "kp10@gmail.com",
+        "password": "kpjelszo",
+        "appdatum": "2021.01.10.",
+        "apptime": "14:00",
+        "id": "5ff9c7965a23c"
+    },
+    "5ff9c8470bab7": {
+        "fullname": "F\u00fctty Imre",
+        "taj": "123123123",
+        "address": "6700, Szeged, Kakukk utca. 55.",
+        "email": "futi@rette.net",
+        "password": "Jimre",
+        "appdatum": "",
+        "apptime": "",
+        "id": "5ff9c8470bab7"
+    }
+}
